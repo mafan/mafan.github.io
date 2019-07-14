@@ -1,6 +1,6 @@
 ---
 title: '机器学习与深度学习常见面试题'
-date: 2012-08-14
+date: 2019-07-14
 permalink: /posts/2019/07/interview questions for ML&DL/
 tags:
   - interview questions
