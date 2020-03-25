@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ma Fan / Game Over"
+title                    : "Obliviate"
 title_separator          : "-"
 name                     : &name "Mafan"
 description              : &description "personal description"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Mafan"
-  avatar           : "profile.png"
-  bio              : "Rookie"
+  avatar           : "profile.jpg"
+  bio              : "Research scientist at SAH University, expert in all things test and account related"
   location         : "Beijing"
   employer         :
   pubmed           : "https://dblp.uni-trier.de"
