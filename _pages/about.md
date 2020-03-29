@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Some Title](/images/profile.jpg){:style="float: left;margin-right: 7px;margin-top: 7px;"}
+![Some Title](/images/interesting.jpg){:style="float: left;margin-right: 7px;margin-top: 7px;"}
 
 I'm a robotics researcher, with 5+ years experience on visual SLAM, deep learning and reinforcement learning.
 
