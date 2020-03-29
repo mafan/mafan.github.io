@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Mafan"
   avatar           : "profile.jpg"
-  bio              : "Research scientist at SAH University, expert in all things test and account related"
+  bio              : "Research scientist at SAH University, expert in kneeling washboard."
   location         : "Beijing"
   employer         :
   pubmed           : "https://dblp.uni-trier.de"
   googlescholar    : "https://scholar.google.co.uk/"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

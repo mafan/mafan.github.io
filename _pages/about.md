@@ -10,11 +10,11 @@ redirect_from:
 
 ![Some Title](/images/interesting.jpg){:style="float: left;margin-right: 7px;margin-top: 7px;"}
 
-I'm a robotics researcher, with 5+ years experience on visual SLAM, deep learning and reinforcement learning.
+About Me
+------
+I'm a fifth-year Ph.D. candidate majoring in Sleeping and Kicking off the quilt at SAH University, working with Professor [Baidu](https://www.baidu.com).
 
-Currently working at Center for Intelligent Machines, SAH University, as CS M.S. candidate & Research Assistant of Professor [Baidu](https://www.baidu.com).
-
-Before that, I obtained B.S. in SAH University, 2012, I joined snoreLab (2009-2012), SAH and worked with Professor [Google](http://www.google.com), Professor [Bing](https://cn.bing.com), on sleeping and kicking off the quilt.
+Before that, I received my M.S. in the Department of Wallpaper at SAH in 2012, advised by Professor [Bing](https://cn.bing.com), and B.S. in the Department of Climb at SAH in 2008, supervised by Professor [Google](http://www.google.com).
 
 More Information
 ------
